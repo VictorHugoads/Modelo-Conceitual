@@ -48,4 +48,4 @@ Este projeto tem como objetivo representar um modelo conceitual de banco de dado
 ## 👨‍💻 Autor
 
 **Victor Hugo Alves da Conceição**  
-📧 victorhugoads@outlook.com 
+📧 victorhugoads@outlook.com.br
